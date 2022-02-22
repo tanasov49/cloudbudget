@@ -1,0 +1,10 @@
+.select-lang {
+    margin: 0 0 0 10px;
+    border: none;
+    outline: none;
+    background: none;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 400;
+    color: #fff;
+}

@@ -1,0 +1,7 @@
+.features-cards {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+    margin: 63px 0 0 0;
+    padding: 0;
+}

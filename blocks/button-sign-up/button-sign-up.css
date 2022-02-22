@@ -1,0 +1,21 @@
+.button-sign-up {
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 17px 53px;
+    border: none;
+    background: #FFFFFF;
+    border-radius: 6px;
+    transition: ease 0.7s;
+    display: flex;
+    margin: 39px auto 0;
+}
+.button-sign-up:hover {
+    background: #D52047;
+    opacity: 0.5;
+}
+.button-sign-up:active {
+    background: #D52047;
+    opacity: 0.5;
+}

@@ -1,0 +1,8 @@
+.header {
+    background: linear-gradient(90deg, rgba(213, 32, 71, 0.8) 0%, rgba(238, 61, 27, 0.8) 100%), url(../../images/header__image.png);
+    max-width: 100%;
+    min-height: 782px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

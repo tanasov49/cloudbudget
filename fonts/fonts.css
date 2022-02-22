@@ -1,0 +1,18 @@
+@font-face {
+    font-family: "Lato";
+    font-weight: 400;
+    src: url(../fonts/lato-regular.woff2) format("woff2"), url(../fonts/lato-regular.woff) format("woff2"), url(../fonts/lato-regular.eot) format("eot"), url(../fonts/lato-regular.ttf) format("ttf");
+    font-display: swap;
+}
+@font-face {
+    font-family: "Lato";
+    font-weight: 600;
+    src: url(../fonts/lato-semibold.woff2) format("woff2"), url(../fonts/lato-semibold.woff2) format("woff"), url(../fonts/lato-semibold.eot) format("eot"), url(../fonts/lato-semibold.ttf) format("ttf");
+    font-display: swap;
+}
+@font-face {
+    font-family: "Lato";
+    font-weight: 700;
+    src: url(../fonts/lato-bold.woff2) format("woff2"), url(../fonts/lato-bold.woff) format("woff"), url(../fonts/lato-bold.eot) format("eot"), url(../fonts/lato-bold.ttf) format("ttf");
+    font-display: swap;
+}

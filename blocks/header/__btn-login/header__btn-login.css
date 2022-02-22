@@ -1,0 +1,20 @@
+.header__btn-login {
+    text-decoration: none;
+    width: 100px;
+    padding: 11px 28px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+    line-height: 17px;
+    font-weight: 400;
+    color: #fff;
+    border: 1px solid #FFF;
+    box-sizing: border-box;
+    border-radius: 6px;
+    transition: ease 0.7s;
+    background: transparent;
+}
+.header__btn-login:hover {
+    background-color: #D52047;
+    opacity: 0.5;
+}

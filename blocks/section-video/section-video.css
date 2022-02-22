@@ -1,0 +1,16 @@
+.section-video {
+    margin: 100px 0 0 0;
+    display: grid;
+    grid-template-columns: repeat(2, minmax(min-content, 445px));
+    grid-template-rows: 161px 150px;
+    grid-gap: 20px 125px;
+    justify-content: center;
+    position: relative;
+}
+.section-video::after {
+    content: url(../../images/play-button.svg);
+    position: absolute;
+    cursor: pointer;
+    top: 35%;
+    left: 51%;
+}

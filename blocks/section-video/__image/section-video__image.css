@@ -1,0 +1,6 @@
+.section-video__image {
+    max-width: 445px;
+    min-height: 311px;
+    grid-column: 2;
+    grid-row: 1;
+}
