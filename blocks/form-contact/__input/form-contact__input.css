@@ -1,0 +1,25 @@
+.form-contact__input {
+    flex: 1 1 auto;
+    height: 54px;
+    outline: none;
+    padding: 0 0 0 31px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+    border: 1px solid #333333;
+    border-radius: 6px;
+}
+
+.form-contact__input:nth-child(1) {
+    grid-area: a;
+}
+.form-contact__input:nth-child(2) {
+    grid-area: c;
+}
+.form-contact__input:nth-child(3) {
+    grid-area: d;
+}
+.form-contact__input:nth-child(5) {
+
+}

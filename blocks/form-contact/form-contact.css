@@ -1,0 +1,12 @@
+.form-contact {
+    max-width: 540px;
+    grid-column: 2;
+    display: grid;
+    grid-template-columns: 255px 30px 255px;
+    grid-template-rows: auto;
+    grid-template-areas: "a b c" 
+                         "d d d" 
+                         "e e e"
+                         "f g h";
+    grid-gap: 24px 0;
+}

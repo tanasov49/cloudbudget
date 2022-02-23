@@ -1,0 +1,11 @@
+.form-contact__select {
+    height: 60px;
+    padding: 0 0 0 30px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(19, 39, 67, 0.5);
+    border: 1px solid #333333;
+    border-radius: 6px;
+    grid-area: e;
+}

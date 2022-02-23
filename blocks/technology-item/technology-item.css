@@ -1,0 +1,54 @@
+.technology-item {
+    max-width: 255px;
+    min-height: 226px;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    padding: 0 30px;
+    margin: 0;
+}
+.technology-item:nth-child(1)::before {
+    content: "01";
+    position: absolute;
+    font-size: 100px;
+    line-height: 120px;
+    text-align: center;
+    font-weight: 700;
+    color: rgba(16, 16, 16, 0.08);
+    top: 0;
+    left: 69px;
+}
+.technology-item:nth-child(2):before {
+    content: "02";
+    position: absolute;
+    font-size: 100px;
+    line-height: 120px;
+    text-align: center;
+    font-weight: 700;
+    color: rgba(16, 16, 16, 0.08);
+    top: 0;
+    left: 69px;
+}
+.technology-item:nth-child(3)::before {
+    content: "03";
+    position: absolute;
+    font-size: 100px;
+    line-height: 120px;
+    text-align: center;
+    font-weight: 700;
+    color: rgba(16, 16, 16, 0.08);
+    top: 0;
+    left: 69px;
+}
+.technology-item:nth-child(4)::before {
+    content: "04";
+    position: absolute;
+    font-size: 100px;
+    line-height: 120px;
+    text-align: center;
+    font-weight: 700;
+    color: rgba(16, 16, 16, 0.08);
+    top: 0;
+    left: 69px;
+}

@@ -1,0 +1,10 @@
+.focus-links__link {
+    text-decoration: none;
+}
+.focus-links__link svg {
+    fill: #fff;
+    transition: ease 0.7s;
+}
+.focus-links__link:hover svg {
+    fill: #EE3D1B;
+}

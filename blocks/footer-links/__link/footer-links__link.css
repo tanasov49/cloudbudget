@@ -1,0 +1,14 @@
+.footer-links__link {
+    text-decoration: none;
+    margin: 0 14px 0 0;
+}
+.footer-links__link:last-child {
+    margin: 0;
+}
+.footer-links__link svg {
+    fill: #101010;
+    transition: ease 0.7s;
+}
+.footer-links__link:hover svg {
+    fill: #EE3D1B;
+}

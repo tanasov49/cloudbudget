@@ -1,0 +1,11 @@
+.focus {
+    background: #ED4C5C;
+    display: grid;
+    max-width: 100%;
+    min-height: 500px;
+    grid-template-columns: minmax(min-content, 445px) minmax(min-content, 533px);
+    grid-template-rows: 131px 180px;
+    grid-gap: 0 81px;
+    justify-content: center;
+    align-content: center;
+}

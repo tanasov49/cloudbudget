@@ -1,0 +1,9 @@
+.focus-links {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(min-content, max-content));
+    align-items: center;
+    grid-gap: 0 25px;
+    grid-column: 1;
+    grid-row: 2;
+    align-content: center;
+}

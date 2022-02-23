@@ -1,4 +1,5 @@
-.section-video__subtitle {
+.focus__subtitle {
+    color: #fff;
     grid-column: 1;
     grid-row: 2;
 }

@@ -1,0 +1,18 @@
+.form-contact__btn {
+    grid-area: f;
+    max-width: 160px;
+    background: #ED4C5C;
+    border: 1.5px solid #ED4C5C;
+    box-sizing: border-box;
+    border-radius: 6px;
+    padding: 17px 34px;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    cursor: pointer;
+    transition: ease 0.7s;
+}
+.form-contact__btn:hover {
+    background: #EE3D1B;
+}

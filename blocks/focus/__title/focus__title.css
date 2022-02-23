@@ -1,0 +1,6 @@
+.focus__title {
+    color: #fff;
+    grid-column: 1;
+    grid-row: 1;
+    align-self: center;
+}

@@ -1,0 +1,9 @@
+.focus-images {
+    max-width: 534px;
+    min-height: 311px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    grid-column: 2;
+}
